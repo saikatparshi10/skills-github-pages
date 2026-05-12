@@ -65,14 +65,14 @@ I enjoy designing clean architectures, optimizing backend performance, deploying
 | Technology | Experience |
 |------------|------------|
 | PHP | ⭐⭐⭐⭐⭐ |
-| Laravel | ⭐⭐⭐⭐⭐ |
+| Laravel | ⭐⭐⭐⭐ |
 | CodeIgniter 3 | ⭐⭐⭐⭐⭐ |
-| AngularJS | ⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐ |
+| AngularJS | ⭐⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐⭐⭐ |
 | Docker | ⭐⭐⭐ |
 | Git | ⭐⭐⭐⭐⭐ |
 | DevOps | ⭐⭐⭐ |
-| FinTech Systems | ⭐⭐⭐⭐ |
+| FinTech Systems | ⭐⭐⭐⭐⭐ |
 
 ---
 
